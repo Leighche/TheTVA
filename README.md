@@ -28,7 +28,9 @@
 6. [Get Started](#get-started)
 7. [Roadmap](#roadmap)
 8. [Contributing](#contributing)
-9. [Contact Us](#contact-us)
+9. [Technology Stack](#technology-stack)
+10. [Coding Activity](#coding-activity)
+11. [Contact Us](#contact-us)
 
 ## 🔵 Introduction
 Welcome to Miss Minutes, a productivity time app designed to help you take control of your schedule and make the most of your day. Developed by TVA, Miss Minutes combines user-friendly design with unique features to provide a seamless experience for managing time and boosting productivity. From customizable clocks to a study buddy for motivation, Miss Minutes has everything you need to stay on track.
@@ -189,6 +191,46 @@ We welcome contributions from the community! If you'd like to contribute to Miss
 
 
 ## 🔵 REFERENCE LIST
+
+ClickUp. 2024. Toggle Review: Pros & Cons of Using Toggle Track in 2024, 26 February 2024. [Online]. Available at: 
+Toggl Review: Pros & Cons of Using Toggl Track in 2024 | ClickUp
+[Accessed 9 March 2024].
+
+ GetApp. 2024. RescueTime Pricing, Features, Reviews and Alternatives, 2024. [Online]. Available at: https://www.getapp.com/project-management-planningsoftware/a/rescuetime/ [Accessed 9 March 2024].
+
+Hales, R. 2024. Time Tracing software developers, 13 February 2024. [Online]. Available at: https://clickup.com/blog/timetracking-software-developers/
+[Accessed 9 March 2024]. 
+
+PCMag. 2021. RescueTime Review, 06 May 2021. [Online]. Available at: https://www.pcmag.com/reviews/rescuetime [Accessed 9 March 2024].
+
+QuoteFancy. 2024. Robin Sharma Productivity Quotes [Online]. Available at:https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fquote%2F953359%2FRobin-S-Sharma-Productivity-is-less-about-what-you-do-with-your-time-And-moreabouthow&psig=AOvVaw1GNR3ul4ZCqX0vysOdbvD5&ust=1710602121517000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD49dLH9oQDFQAAAAAdAAAAABAE [Accessed 15 March 2024].
+
+
+Qureshi, A. 2023. Honest Review: Timely, 16 December 2023. [Online]. Available at: https://www.jibble.io/reviews/timely/ [Accessed 9 March 2024].
+
+Qureshi, A. 2024, 5 ways RescueTime is great, 2024. [Online]. Available at: https://www.jibble.io/reviews/rescuetime/5-ways-rescuetime-is-great/
+[Accessed 9 March 2024].
+
+Qureshi, A. 2023. Honest Review: RescueTime, 09 December 2023. [Online]. Available at: https://www.jibble.io/reviews/rescuetime/ 
+[Accessed 9 March 2024].
+
+RescueTime. 2024. RescueTime, 2024. [Online]. Available at: https://www.rescuetime.com/
+[Accessed 12 March 24].
+
+RescueTime. 2024. RescueTime. [Online]. Available at: https://www.rescuetime.com/ [Accessed 08 March 2024].
+
+Timely. 2024. Timely – AI powered app, 2024. [Online]. Available at: https://timelyapp.com/ [Accessed 9 March 2024].
+
+Timely. 2024. Timely – Pricing, 2024. [Online]. Available at: https://timelyapp.com/pricing [Accessed 9 March 2024].
+
+Timely, 2024. Importing projects and clients into timely using toggl or harvest, 2024. [Online]. Available at:
+https://support.timelyapp.com/en/articles/3924477-importingprojects-and-clients-into-timely-using-toggl-or-harvest [Accessed 9 March 2024].
+
+Timely, 2024. Exporting your reports, 2024. [Online]. Available at: https://support.timelyapp.com/en/articles/2301794-exporting-your-reports
+[Accessed 9 March 2024].
+
+ToggleTrack. 2024. ToggleTrack. [Online]. Available at: https://toggl.com/
+[Accessed 8 March 2024]
 
 ## 🔵 Contact Us
 If you have any questions, feedback, or need support, feel free to reach out to us at support@missminutes.com. We're here to help you make the most out of Miss Minutes!
