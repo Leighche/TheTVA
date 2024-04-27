@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646232767583",
+    "project_id": "missminutes-9d0f4",
+    "storage_bucket": "missminutes-9d0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646232767583:android:c659591182e9dfd4b96fea",
+        "android_client_info": {
+          "package_name": "com.example.missminutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646232767583-epvtgh9u1nrte54kg97ai9df4aogsta2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.missminutes",
+            "certificate_hash": "32b7ba7af900b6cf119ef7222e522231eb30737c"
+          }
+        },
+        {
+          "client_id": "646232767583-caaeor11unum4edc65agv0e7vido3oet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5LGAfue8PTY-Qhljksi_TlpgqLswz-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646232767583-caaeor11unum4edc65agv0e7vido3oet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
