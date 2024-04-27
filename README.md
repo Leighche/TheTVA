@@ -187,6 +187,9 @@ We welcome contributions from the community! If you'd like to contribute to Miss
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
+
+## 🔵 REFERENCE LIST
+
 ## 🔵 Contact Us
 If you have any questions, feedback, or need support, feel free to reach out to us at support@missminutes.com. We're here to help you make the most out of Miss Minutes!
 
