@@ -1,4 +1,5 @@
 # 🟠 Miss Minutes - For all time, always
+<img alt="Awesome GitHub Profile Readme" src="The.gif"> </img>
 
 <a href="https://github.com/Leighche/TheTVA/stargazers"><img src="https://img.shields.io/github/stars/Leighche/TheTVA" alt="Stars Badge"/></a>
 <a href="https://github.com/Leighche/TheTVA/network/members"><img src="https://img.shields.io/github/forks/Leighche/TheTVA" alt="Forks Badge"/></a>
@@ -116,6 +117,74 @@ We welcome contributions from the community! If you'd like to contribute to Miss
 3. Make your changes and commit them with clear commit messages.
 4. Push your changes to your forked repository.
 5. Open a pull request, and we'll review your changes.
+
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages Used.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#firebase">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#android-studio">
+        <img src="https://developer.android.com/static/studio/images/studio-icon.svg" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#kotlin">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#figma">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1024px-Figma-logo.svg.png" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#google">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="48" height="48" alt="Google" />
+      </a>
+      <br>Google
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> Total logged open-source coding time since 2024 March. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2024.0 hr  ┤                                                                                                  ╭ 
+  2024.1 hr  ┤                                                                                     ╭────────────╯ 
+  2024.2 hr  ┤                                                                                     │              
+  2024.3 hr  ┤                                                                                    ╭╯              
+  2024.4 hr  ┤                                                                                    │               
+  2024.4 hr  ┤                                                                                   ╭╯               
+  2024.5 hr  ┤                                                                                   │                
+  2024.6 hr  ┤                                                                                  ╭╯                
+  2024.7 hr  ┤                                                                                  │                 
+  2024.8 hr  ┤                                                                                 ╭╯                 
+  2024.9 hr  ┤                                                                                ╭╯                  
+  2024.0 hr  ┤                                                                               ╭╯                   
+  2024.1 hr  ┼───────────────────────────────────────────────────────────────────────────────╯                    
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
 ## 🔵 Contact Us
 If you have any questions, feedback, or need support, feel free to reach out to us at support@missminutes.com. We're here to help you make the most out of Miss Minutes!
