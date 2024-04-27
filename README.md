@@ -120,7 +120,7 @@ We welcome contributions from the community! If you'd like to contribute to Miss
 5. Open a pull request, and we'll review your changes.
 
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Technology Stack</h2>
 
 > Tools, languages Used.
 
