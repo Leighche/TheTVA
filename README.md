@@ -9,8 +9,6 @@
 <a href="https://github.com/Leighche/TheTVA/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Leighche/TheTVA?color=2b9348" alt="License Badge"/></a>
 ![Page Views](https://komarev.com/ghpvc/?username=Leighche&color=blue)
 
-![Analog Clock](https://media3.giphy.com/media/6rIGgbENBON4edCYgy/giphy.gif?cid=6c09b9528yod3adx3wzi1my9vh8wkbiy6w2st4r6vhsll67s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
-
 ## 🔵 Table of Contents
 1. [Introduction](#introduction)
 2. [Key Features](#key-features)
@@ -69,6 +67,9 @@ Automatically switch between light and dark modes based on the time of day or yo
 
 ### Pomodoro Timer Feature
 Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout.
+
+![Analog Clock](https://media3.giphy.com/media/6rIGgbENBON4edCYgy/giphy.gif?cid=6c09b9528yod3adx3wzi1my9vh8wkbiy6w2st4r6vhsll67s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
+
 
 ## 🔵 Installation and Setup
 1. Download and install the Miss Minutes app from the Google Play Store.
