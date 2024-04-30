@@ -198,7 +198,9 @@ Toggl Review: Pros & Cons of Using Toggl Track in 2024 | ClickUp
 
 GeeksForGeeks. 2022. Send Multiple Data From  One Activity to Another in Android using Kotlin, 28 January 2022. [Online]. Available at:  https://www.geeksforgeeks.org/send-multiple-data-from-one-activity-to-another-in-android-using-kotlin/ [Accessed 28 April 2024].
 
- GetApp. 2024. RescueTime Pricing, Features, Reviews and Alternatives, 2024. [Online]. Available at: https://www.getapp.com/project-management-planningsoftware/a/rescuetime/ [Accessed 9 March 2024].
+GeeksForGeeks. 2023. How to Build a Pomodoro App in Android, 1 February 2023. [Online]. Available at: https://www.geeksforgeeks.org/how-to-build-a-pomodoro-app-in-android/ [Accessed 29 April 2024].
+
+GetApp. 2024. RescueTime Pricing, Features, Reviews and Alternatives, 2024. [Online]. Available at: https://www.getapp.com/project-management-planningsoftware/a/rescuetime/ [Accessed 9 March 2024].
 
 Hales, R. 2024. Time Tracing software developers, 13 February 2024. [Online]. Available at: https://clickup.com/blog/timetracking-software-developers/
 [Accessed 9 March 2024]. 
