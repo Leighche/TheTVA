@@ -192,6 +192,8 @@ We welcome contributions from the community! If you'd like to contribute to Miss
 
 ## 🔵 REFERENCE LIST
 
+Alert Dialog Box in Android using Kotlin | Kotlin | Android Studio Tutorial - Quick + Easy. 2023. YouTube video, added by Learn With Deeksha. [Online]. Available at: https://youtu.be/V-qjrWuUFrQ [Accessed 29 April 2024].
+
 ClickUp. 2024. Toggle Review: Pros & Cons of Using Toggle Track in 2024, 26 February 2024. [Online]. Available at: 
 Toggl Review: Pros & Cons of Using Toggl Track in 2024 | ClickUp
 [Accessed 9 March 2024].
@@ -208,7 +210,6 @@ Hales, R. 2024. Time Tracing software developers, 13 February 2024. [Online]. Av
 PCMag. 2021. RescueTime Review, 06 May 2021. [Online]. Available at: https://www.pcmag.com/reviews/rescuetime [Accessed 9 March 2024].
 
 QuoteFancy. 2024. Robin Sharma Productivity Quotes [Online]. Available at:https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fquote%2F953359%2FRobin-S-Sharma-Productivity-is-less-about-what-you-do-with-your-time-And-moreabouthow&psig=AOvVaw1GNR3ul4ZCqX0vysOdbvD5&ust=1710602121517000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD49dLH9oQDFQAAAAAdAAAAABAE [Accessed 15 March 2024].
-
 
 Qureshi, A. 2023. Honest Review: Timely, 16 December 2023. [Online]. Available at: https://www.jibble.io/reviews/timely/ [Accessed 9 March 2024].
 
