@@ -15,12 +15,9 @@
    - [Progress Tracking](#progress-tracking)
    - [Mood and Productivity Correlation](#mood-and-productivity-correlation)
    - [Study Buddy](#study-buddy)
-   - [Dark Mode Option](#dark-mode-option)
    - [Feedback System](#feedback-system)
-   - [Customizable Clocks](#customizable-clocks)
    - [Favorite Tasks](#favorite-tasks)
    - [Display Picture Options](#display-picture-options)
-   - [Dark Mode Scheduler](#dark-mode-scheduler)
    - [Pomodoro Timer Feature](#pomodoro-timer-feature)
 3. [Installation and Setup](#installation-and-setup)
 4. [Images](#images)
@@ -49,23 +46,14 @@ Keep track of your mood alongside your productivity. Understand how your mood af
 ### Study Buddy
 Need extra motivation to stay productive? Our Study Buddy feature rewards you when you complete your goals, encouraging you to stay on track and reach new heights in your productivity journey.
 
-### Dark Mode Option
-Switch to dark mode for a more comfortable experience during nighttime or in low-light conditions. Reduce eye strain and enjoy a sleek, modern interface.
-
 ### Feedback System
 We value your feedback! Use our built-in feedback system to share your thoughts and suggestions, helping us improve the app and create a better user experience.
-
-### Customizable Clocks
-Choose between digital and analog clocks to suit your style. You can also customize icons and personalize the app's appearance to make it your own.
 
 ### Favorite Tasks
 Easily save and access your favorite tasks. With just a tap, you can add your most important tasks to your favorites for quick and easy access.
 
 ### Display Picture Options
 Upload your own display picture or choose from our curated selection of images to give your profile a personal touch.
-
-### Dark Mode Scheduler
-Automatically switch between light and dark modes based on the time of day or your preferences. Enjoy a comfortable viewing experience in various lighting conditions.
 
 ### Pomodoro Timer Feature
 Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout.
@@ -85,7 +73,7 @@ Here are some screenshots showcasing the app's interface and key features:
 ![Progress Tracking](path/to/image2.png)
 ![Study Buddy](path/to/image3.png)
 
-![Analog Clock](https://pnghq.com/wp-content/uploads/loki-miss-minutes-sticker-46354.png)
+![Analog Clock](https://modbay.org/uploads/posts/2023-11/thor-addon-loki-miss-minutes-skin.gif)
 
 ## 🔵 Demo Video
 Watch our demo video to see Miss Minutes in action:
@@ -160,6 +148,8 @@ We welcome contributions from the community! If you'd like to contribute to Miss
     </td>
   </tr>
 </table>
+
+<img src ="https://d23.com/app/uploads/2023/10/MM_V4_250x250.gif" />
 
 <h2 align="left">Coding Activity</h2>
 
