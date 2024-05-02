@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_category.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_roboto.ttf.flat",
+        "source": "com.example.missminutes.app-main-38:/font/roboto.ttf"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_img.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_custom_input.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_favourite_timesheet.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_favourite_timesheet.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_home_page.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_img_2.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_poppins_bold.ttf.flat",
+        "source": "com.example.missminutes.app-main-38:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_roboto_bold.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/font/roboto_bold.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_img_5.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/img_5.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_timesheet.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_timesheet.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_img_1.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_registration.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_finalise_task.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_finalise_task.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_usericon.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/usericon.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_pomodoro.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_pomodoro.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_inter_medium.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/font/inter_medium.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_anton.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/font/anton.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_passwordicon.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/passwordicon.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_img_4.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_task_page.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_task_page.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_input_bg.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_gaspmissminutes.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/gaspmissminutes.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_poppins.ttf.flat",
+        "source": "com.example.missminutes.app-main-38:/font/poppins.ttf"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_activity_reg_upload_pic.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/activity_reg_upload_pic.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_worriedmissminutes.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/worriedmissminutes.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_mmhomescreen.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/mmhomescreen.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_star.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/star.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_img_3.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/font_amiko.ttf.flat",
+        "source": "com.example.missminutes.app-main-38:/font/amiko.ttf"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/layout_list_item.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_missminutesapplogo.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/missminutesapplogo.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.missminutes.app-main-38:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_sassymissminutes.png.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/sassymissminutes.png"
+    },
+    {
+        "merged": "com.example.missminutes.app-merged_res-36:/drawable_button_with_stroke.xml.flat",
+        "source": "com.example.missminutes.app-main-38:/drawable/button_with_stroke.xml"
+    }
+]
