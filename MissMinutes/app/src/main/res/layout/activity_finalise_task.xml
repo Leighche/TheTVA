@@ -7,13 +7,32 @@
     android:background="#ffffff"
     tools:context=".FinaliseTask">
 
+<<<<<<< Updated upstream
+=======
+    <ImageView
+        android:id="@+id/BtnSave2Fav"
+        android:layout_width="44dp"
+        android:layout_height="47dp"
+        android:src="@drawable/star"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.042" />
+
+>>>>>>> Stashed changes
     <Button
         android:id="@+id/BtnFinaliseTask"
         android:layout_width="277dp"
         android:layout_height="47dp"
         android:backgroundTint="#309696"
         android:fontFamily="@font/poppins_bold"
+<<<<<<< Updated upstream
         android:hint="NEXT"
+=======
+        android:hint="Add Task"
+>>>>>>> Stashed changes
         android:padding="1dp"
         android:textColorHint="#FFFFFF"
         android:textSize="12dp"
@@ -23,7 +42,29 @@
         app:layout_constraintHorizontal_bias="0.522"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< Updated upstream
         app:layout_constraintVertical_bias="0.894" />
+=======
+        app:layout_constraintVertical_bias="0.869" />
+
+    <Button
+        android:id="@+id/BtnUploadPic"
+        android:layout_width="132dp"
+        android:layout_height="40dp"
+        android:backgroundTint="#F68900"
+        android:fontFamily="@font/roboto_bold"
+        android:hint="Upload Picture"
+        android:padding="3dp"
+        android:textColorHint="#FFFFFF"
+        android:textSize="12dp"
+        app:cornerRadius="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.77"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.354" />
+>>>>>>> Stashed changes
 
     <EditText
         android:id="@+id/MaxGoalTxtbox"
@@ -110,7 +151,11 @@
         app:layout_constraintVertical_bias="0.449" />
 
     <TextView
+<<<<<<< Updated upstream
         android:id="@+id/textView3"
+=======
+        android:id="@+id/RedirectCategory"
+>>>>>>> Stashed changes
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/amiko"

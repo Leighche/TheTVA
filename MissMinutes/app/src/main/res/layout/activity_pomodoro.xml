@@ -6,14 +6,23 @@
     android:layout_height="match_parent"
     android:background="#FF9500"
     tools:context=".Pomodoro">
+<<<<<<< Updated upstream
 
     <Button
         android:id="@+id/BtnAddCategory"
+=======
+    <Button
+        android:id="@+id/BtnCancelBreak"
+>>>>>>> Stashed changes
         android:layout_width="245dp"
         android:layout_height="52dp"
         android:backgroundTint="#309696"
         android:fontFamily="@font/poppins_bold"
+<<<<<<< Updated upstream
         android:hint="Add Category"
+=======
+        android:hint="Cancel Break"
+>>>>>>> Stashed changes
         android:padding="1dp"
         android:textColorHint="#FFFFFF"
         android:textSize="12dp"
@@ -29,11 +38,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/anton"
+<<<<<<< Updated upstream
         android:text="Time Break "
+=======
+        android:text="Take a break..."
+>>>>>>> Stashed changes
         android:textColor="@color/black"
         android:textSize="48dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< Updated upstream
         app:layout_constraintHorizontal_bias="0.915"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -50,4 +64,35 @@
         app:layout_constraintVertical_bias="0.591"
         app:srcCompat="@drawable/worriedmissminutes" />
 
+=======
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.617" />
+
+    <TextView
+        android:id="@+id/time_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anton"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="48dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.103" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="221dp"
+        android:layout_height="208dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.367"
+        app:srcCompat="@drawable/worriedmissminutes" />
+>>>>>>> Stashed changes
 </androidx.constraintlayout.widget.ConstraintLayout>

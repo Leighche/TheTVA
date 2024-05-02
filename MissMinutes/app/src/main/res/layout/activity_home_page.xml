@@ -22,7 +22,11 @@
         app:layout_constraintHorizontal_bias="0.935"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< Updated upstream
         app:layout_constraintVertical_bias="0.934" />
+=======
+        app:layout_constraintVertical_bias="0.894" />
+>>>>>>> Stashed changes
 
     <Button
         android:id="@+id/BtnCreateCategory"
@@ -39,6 +43,7 @@
         app:layout_constraintHorizontal_bias="0.064"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< Updated upstream
         app:layout_constraintVertical_bias="0.934" />
 
     <Button
@@ -57,6 +62,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.693" />
+=======
+        app:layout_constraintVertical_bias="0.894" />
+>>>>>>> Stashed changes
 
     <Button
         android:id="@+id/BtnCreateStudy"
@@ -70,10 +78,75 @@
         app:cornerRadius="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< Updated upstream
         app:layout_constraintHorizontal_bias="0.935"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.693" />
+=======
+        app:layout_constraintHorizontal_bias="0.933"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.588" />
+
+    <Button
+        android:id="@+id/BtnTimesheet"
+        android:layout_width="164dp"
+        android:layout_height="133dp"
+        android:backgroundTint="#96304F"
+        android:fontFamily="@font/roboto_bold"
+        android:padding="16dp"
+        android:text="MY TASKS"
+        android:textSize="16dp"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.062"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.588" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anton"
+        android:text="Welcome to the TVA"
+        android:textSize="36dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.127" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.271"
+        app:srcCompat="@drawable/mmhomescreen" />
+
+    <Button
+        android:id="@+id/btnrelax"
+
+        android:layout_width="161dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#A9009A"
+        android:text="Take a break"
+        app:cornerRadius="6dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.716" />
+>>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/Logo"
@@ -105,6 +178,7 @@
         app:layout_constraintVertical_bias="0.069" />
 
     <ImageView
+<<<<<<< Updated upstream
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -129,6 +203,8 @@
         app:layout_constraintVertical_bias="0.183" />
 
     <ImageButton
+=======
+>>>>>>> Stashed changes
         android:id="@+id/imageButton"
         android:layout_width="34dp"
         android:layout_height="31dp"

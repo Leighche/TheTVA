@@ -78,7 +78,11 @@
         android:ems="10"
         android:fontFamily="@font/poppins"
         android:hint="Example Maths"
+<<<<<<< Updated upstream
         android:inputType="text"
+=======
+        android:inputType="textImeMultiLine"
+>>>>>>> Stashed changes
         android:padding="8dp"
         android:textColor="@color/black"
         android:textColorHint="#868686"
@@ -106,7 +110,11 @@
         app:layout_constraintVertical_bias="0.484" />
 
     <TextView
+<<<<<<< Updated upstream
         android:id="@+id/Category"
+=======
+        android:id="@+id/CategoryDescription"
+>>>>>>> Stashed changes
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/roboto"
@@ -155,11 +163,27 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.282" />
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< Updated upstream
         app:srcCompat="@drawable/gaspmissminutes"
         tools:layout_editor_absoluteX="203dp"
         tools:layout_editor_absoluteY="195dp" />
+=======
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.88"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.275"
+        app:srcCompat="@drawable/gaspmissminutes"
+        tools:ignore="MissingConstraints" />
+
+>>>>>>> Stashed changes
 </androidx.constraintlayout.widget.ConstraintLayout>
