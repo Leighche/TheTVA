@@ -4,23 +4,26 @@ import android.app.DatePickerDialog
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
+import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import java.util.Calendar
 
-
 class TaskPage : AppCompatActivity() {
+
 
     private lateinit var buttonOpenDatePicker: Button
     private lateinit var buttonOpenEndDatePicker: Button
     private lateinit var NextTaskBtn: TextView
-
+    private lateinit var Obj: EditText
+    private lateinit var Desc: EditText
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_task_page)
 
-
+        Obj = findViewById(R.id.ObjectiveTxtbox)
+        Desc = findViewById(R.id.DescriptionTxtbox)
         buttonOpenDatePicker = findViewById(R.id.startDate)
         buttonOpenEndDatePicker= findViewById(R.id.endDate)
         NextTaskBtn = findViewById(R.id.BtnNextTaskStep)
@@ -41,7 +44,13 @@ class TaskPage : AppCompatActivity() {
     }
 
     private fun navigatToNextPage() {
-        val intent = Intent(this, Registration::class.java)
+        val bundle = Bundle()
+        bundle.putString("objective", Obj.text.toString())
+        bundle.putString("description", Desc.text.toString())
+        bundle.putString("startDate", buttonOpenDatePicker.text.toString())
+        bundle.putString("endDate", buttonOpenEndDatePicker.text.toString())
+        val intent = Intent(this, FinaliseTask::class.java)
+        intent.putExtras(bundle)
         startActivity(intent)
     }
 

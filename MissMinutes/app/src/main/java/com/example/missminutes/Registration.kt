@@ -38,6 +38,9 @@ class Registration : AppCompatActivity() {
 
         btnSignUp.setOnClickListener {
             signUp()
+            val intent = Intent(this, RegUploadPic::class.java)
+            startActivity(intent)
+            finish()
         }
 
         LoginPageLink.setOnClickListener {
@@ -60,6 +63,8 @@ class Registration : AppCompatActivity() {
                 Toast.makeText(this, "Registration failed", Toast.LENGTH_SHORT).show()
             }
         }
+
+
     }
 
     private fun navigateToLogin() {
