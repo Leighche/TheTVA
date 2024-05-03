@@ -11,7 +11,8 @@
 
 ## 🔵 Table of Contents
 1. [Introduction](#introduction)
-2. [Key Features](#key-features)
+2. [Taem Members](#Team-Members)
+3. [Key Features](#key-features)
    - [Progress Tracking](#progress-tracking)
    - [Mood and Productivity Correlation](#mood-and-productivity-correlation)
    - [Study Buddy](#study-buddy)
@@ -19,21 +20,27 @@
    - [Favorite Tasks](#favorite-tasks)
    - [Display Picture Options](#display-picture-options)
    - [Pomodoro Timer Feature](#pomodoro-timer-feature)
-3. [Installation and Setup](#installation-and-setup)
-4. [Images](#images)
-5. [Demo Video](#demo-video)
-6. [Get Started](#get-started)
-7. [Roadmap](#roadmap)
-8. [Contributing](#contributing)
-9. [Technology Stack](#technology-stack)
-10. [Coding Activity](#coding-activity)
-11. [Contact Us](#contact-us)
+4. [Installation and Setup](#installation-and-setup)
+5. [Images](#images)
+6. [Demo Video](#demo-video)
+7. [Get Started](#get-started)
+8. [Roadmap](#roadmap)
+9. [Contributing](#contributing)
+10. [Technology Stack](#technology-stack)
+11. [Coding Activity](#coding-activity)
+12. [Contact Us](#contact-us)
 
 ## 🔵 Introduction
 Welcome to Miss Minutes, a productivity time app designed to help you take control of your schedule and make the most of your day. Developed by TVA, Miss Minutes combines user-friendly design with unique features to provide a seamless experience for managing time and boosting productivity. From customizable clocks to a study buddy for motivation, Miss Minutes has everything you need to stay on track.
 
 ![Analog Clock](https://cdn.custom-cursor.com/packs/4781/marvel-miss-minutes-pack.png)
 
+## 🟢 Team Members
+
+- Leighché Jaikarran (Team Lead)
+- Naiya Haribhai (NFR Developer)
+- Tanya Christine Govender (Full-Stack developer)
+- Vikhayle (Full-Stack developer)
 
 ## 🔵 Key Features
 
@@ -151,7 +158,7 @@ We welcome contributions from the community! If you'd like to contribute to Miss
 
 <img src ="https://d23.com/app/uploads/2023/10/MM_V4_250x250.gif" />
 
-<h2 align="left">Coding Activity</h2>
+<h2 align="left">🟢 Coding Activity</h2>
 
 > Total logged open-source coding time since 2024 March. Updated every 1 hour.
 
