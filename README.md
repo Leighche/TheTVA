@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🟠 Miss Minutes - For all time, always
 <img alt="Awesome GitHub Profile Readme" src="The.gif"> </img>
 
@@ -238,3 +239,6 @@ ToggleTrack. 2024. ToggleTrack. [Online]. Available at: https://toggl.com/
 If you have any questions, feedback, or need support, feel free to reach out to us at support@missminutes.com. We're here to help you make the most out of Miss Minutes!
 
 ![Analog Clock](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf853092-d54d-4bd0-842b-1facd2b89c32/dgdi52v-b3cb0a4e-be0c-4027-950c-afc7e2686685.png/v1/fill/w_909,h_879/miss_minutes_ghost_clock__loki_s2_png_by_iwasboredsoididthis_dgdi52v-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NzciLCJwYXRoIjoiXC9mXC9iZjg1MzA5Mi1kNTRkLTRiZDAtODQyYi0xZmFjZDJiODljMzJcL2RnZGk1MnYtYjNjYjBhNGUtYmUwYy00MDI3LTk1MGMtYWZjN2UyNjg2Njg1LnBuZyIsIndpZHRoIjoiPD0xMTA0MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5M6gDU6bVGXGYOWg_W8QCd123m0S36VBm1Y4_AWqyu0)
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4Pc8LaSl)
+>>>>>>> target/main
