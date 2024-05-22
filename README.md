@@ -13,22 +13,24 @@
 1. [Introduction](#introduction)
 2. [Taem Members](#Team-Members)
 3. [Key Features](#key-features)
-   - [Progress Tracking](#progress-tracking)
-   - [Mood and Productivity Correlation](#mood-and-productivity-correlation)
-   - [Study Buddy](#study-buddy)
-   - [Feedback System](#feedback-system)
-   - [Favorite Tasks](#favorite-tasks)
-   - [Display Picture Options](#display-picture-options)
-   - [Pomodoro Timer Feature](#pomodoro-timer-feature)
-4. [Installation and Setup](#installation-and-setup)
-5. [Images](#images)
-6. [Demo Video](#demo-video)
-7. [Get Started](#get-started)
-8. [Roadmap](#roadmap)
-9. [Contributing](#contributing)
-10. [Technology Stack](#technology-stack)
-11. [Coding Activity](#coding-activity)
-12. [Contact Us](#contact-us)
+   * [Required Features](#required-features)
+      - [Progress Tracking](#progress-tracking)
+      - [Mood and Productivity Correlation](#mood-and-productivity-correlation)
+      - [Study Buddy](#study-buddy)
+      - [Feedback System](#feedback-system)
+      - [Display Picture Options](#display-picture-options)
+   * [Additional Features](#additional-features)
+      - [Favorite Tasks](#favorite-tasks)
+      - [Pomodoro Timer Feature](#pomodoro-timer-feature)
+5. [Installation and Setup](#installation-and-setup)
+6. [Images](#images)
+7. [Demo Video](#demo-video)
+8. [Get Started](#get-started)
+9. [Roadmap](#roadmap)
+10. [Contributing](#contributing)
+11. [Technology Stack](#technology-stack)
+12. [Coding Activity](#coding-activity)
+13. [Contact Us](#contact-us)
 
 ## 🔵 Introduction
 Welcome to Miss Minutes, a productivity time app designed to help you take control of your schedule and make the most of your day. Developed by TVA, Miss Minutes combines user-friendly design with unique features to provide a seamless experience for managing time and boosting productivity. From customizable clocks to a study buddy for motivation, Miss Minutes has everything you need to stay on track.
@@ -44,6 +46,8 @@ Welcome to Miss Minutes, a productivity time app designed to help you take contr
 
 ## 🔵 Key Features
 
+## Required Features 
+
 ### Progress Tracking
 Set productivity goals and track your progress using our unique ring/challenge meter. Achieve your goals to unlock secret achievements, adding a fun and motivating aspect to your productivity journey.
 
@@ -56,17 +60,18 @@ Need extra motivation to stay productive? Our Study Buddy feature rewards you wh
 ### Feedback System
 We value your feedback! Use our built-in feedback system to share your thoughts and suggestions, helping us improve the app and create a better user experience.
 
-### Favorite Tasks
-Easily save and access your favorite tasks. With just a tap, you can add your most important tasks to your favorites for quick and easy access.
-
 ### Display Picture Options
 Upload your own display picture or choose from our curated selection of images to give your profile a personal touch.
 
-### Pomodoro Timer Feature
-Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout.
-
 ![Analog Clock](https://media3.giphy.com/media/6rIGgbENBON4edCYgy/giphy.gif?cid=6c09b9528yod3adx3wzi1my9vh8wkbiy6w2st4r6vhsll67s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 
+## Additional Features.
+
+### Favorite Tasks
+Easily save and access your favorite tasks. With just a tap, you can add your most important tasks to your favorites for quick and easy access.
+
+### Pomodoro Timer Feature
+Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout
 
 ## 🔵 Installation and Setup
 1. Download and install the Miss Minutes app from the Google Play Store.
