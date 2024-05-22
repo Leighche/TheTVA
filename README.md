@@ -65,7 +65,7 @@ Upload your own display picture or choose from our curated selection of images t
 
 ![Analog Clock](https://media3.giphy.com/media/6rIGgbENBON4edCYgy/giphy.gif?cid=6c09b9528yod3adx3wzi1my9vh8wkbiy6w2st4r6vhsll67s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 
-## Additional Features.
+## Additional Features
 
 ### Favorite Tasks
 Easily save and access your favorite tasks. With just a tap, you can add your most important tasks to your favorites for quick and easy access.
