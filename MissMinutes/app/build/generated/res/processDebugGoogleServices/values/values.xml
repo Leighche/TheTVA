@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">646232767583-caaeor11unum4edc65agv0e7vido3oet.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">646232767583</string>
+    <string name="google_api_key" translatable="false">AIzaSyDj5LGAfue8PTY-Qhljksi_TlpgqLswz-g</string>
+    <string name="google_app_id" translatable="false">1:646232767583:android:c659591182e9dfd4b96fea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDj5LGAfue8PTY-Qhljksi_TlpgqLswz-g</string>
+    <string name="google_storage_bucket" translatable="false">missminutes-9d0f4.appspot.com</string>
+    <string name="project_id" translatable="false">missminutes-9d0f4</string>
+</resources>

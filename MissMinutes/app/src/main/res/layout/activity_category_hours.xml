@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CategoryHours">
+
+    <TextView
+        android:id="@+id/TimesheetHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anton"
+        android:text="HOURS FOR EACH CATEGORY"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.067" />
+
+    <Button
+        android:id="@+id/filterByDate"
+        android:layout_width="261dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#309696"
+        android:fontFamily="@font/roboto"
+        android:hint="Filter by Date"
+        android:padding="1dp"
+        android:textColor="@color/black"
+        android:textColorHint="#ffffff"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257"
+        app:strokeColor="#000" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="393dp"
+        android:layout_height="469dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="170dp"
+        android:layout_height="148dp"
+        android:rotation="200"
+        app:layout_constraintBottom_toBottomOf="@+id/recyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/bubbles" />
+
+    <Button
+        android:id="@+id/btnGraph"
+        android:layout_width="261dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#309696"
+        android:fontFamily="@font/roboto"
+        android:hint="Graph"
+        android:padding="1dp"
+        android:textColor="@color/black"
+        android:textColorHint="#ffffff"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.176"
+        app:strokeColor="#000" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
