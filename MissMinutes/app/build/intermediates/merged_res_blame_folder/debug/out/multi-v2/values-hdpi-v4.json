@@ -4,7 +4,7 @@
             "outputFile": "com.example.missminutes.app-mergeDebugResources-36:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\71a0d1092f59e74017d69a5651eb801a\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/71a0d1092f59e74017d69a5651eb801a/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

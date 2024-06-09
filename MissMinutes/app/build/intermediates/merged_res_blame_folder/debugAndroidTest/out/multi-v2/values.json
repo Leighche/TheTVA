@@ -4,7 +4,7 @@
             "outputFile": "com.example.missminutes.test.app-mergeDebugAndroidTestResources-3:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\faba00c7f9fa2310b63d872a709132ce\\transformed\\core-1.5.0\\res\\values\\values.xml",
+                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/faba00c7f9fa2310b63d872a709132ce/transformed/core-1.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",

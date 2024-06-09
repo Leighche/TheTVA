@@ -11,7 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.missminutes.R;
-import com.github.mikephil.charting.charts.LineChart;
+import com.github.mikephil.charting.charts.BarChart;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -21,7 +21,7 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
   private final RelativeLayout rootView;
 
   @NonNull
-  public final LineChart idBarChart;
+  public final BarChart idBarChart;
 
   @NonNull
   public final TextView idTVHead;
@@ -30,7 +30,7 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
   public final RelativeLayout main;
 
   private ActivityCategoryGraphBinding(@NonNull RelativeLayout rootView,
-      @NonNull LineChart idBarChart, @NonNull TextView idTVHead, @NonNull RelativeLayout main) {
+      @NonNull BarChart idBarChart, @NonNull TextView idTVHead, @NonNull RelativeLayout main) {
     this.rootView = rootView;
     this.idBarChart = idBarChart;
     this.idTVHead = idTVHead;
@@ -65,7 +65,7 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.idBarChart;
-      LineChart idBarChart = ViewBindings.findChildViewById(rootView, id);
+      BarChart idBarChart = ViewBindings.findChildViewById(rootView, id);
       if (idBarChart == null) {
         break missingId;
       }
