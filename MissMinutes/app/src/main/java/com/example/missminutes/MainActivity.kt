@@ -81,7 +81,7 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
         finish() // Close MainActivity to ensure it's not in the stack
     }
-//this method redirets the user to the sign up page
+//this method redirects the user to the sign up page
     private fun navigateToSignUp() {
         val intent = Intent(this, Registration::class.java)
         startActivity(intent)

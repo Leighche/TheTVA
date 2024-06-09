@@ -6,5 +6,5 @@ data class Task(var categoryName: String ?= null, var description:String ?=null,
 //This data class represents a category and it's total hours
 data class CategorySummary(
     val categoryName: String,
-    val totalHours: Number
+    val totalHours: Double
 )

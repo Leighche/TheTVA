@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.missminutes.app-mergeDebugResources-36:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.example.missminutes.app-mergeDebugResources-38:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/64ba5f05ce4d85c11f3f4969a09eb873/transformed/material-1.11.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\bcf6c641b9c5e3b8267b7e4fe4fa56b2\\transformed\\material-1.11.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

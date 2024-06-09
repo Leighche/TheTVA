@@ -1,58 +1,58 @@
 [
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_timesheet.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_timesheet.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_splashscreen.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_splashscreen.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_splashscreen.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_splashscreen.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_task_page.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_task_page.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_registration.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_registration.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_category_hours.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_category_hours.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_task_page.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_task_page.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_pomodoro.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_pomodoro.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_home_page.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_home_page.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_timesheet.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_timesheet.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_finalise_task.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_finalise_task.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_category_graph.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_category_graph.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_pomodoro.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_pomodoro.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/list_item.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/list_item.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/list_item.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/list_item.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/category_item.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/category_item.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_category_graph.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_category_graph.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_category.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_category.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_category_hours.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_category_hours.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_registration.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_registration.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_category.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_category.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_favourite_timesheet.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_favourite_timesheet.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_favourite_timesheet.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_favourite_timesheet.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_home_page.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_home_page.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/category_item.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/category_item.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_finalise_task.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_finalise_task.xml"
     },
     {
-        "merged": "com.example.missminutes.app-mergeDebugResources-37:/layout/activity_main.xml",
-        "source": "com.example.missminutes.app-main-40:/layout/activity_main.xml"
+        "merged": "com.example.missminutes.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.missminutes.app-main-42:/layout/activity_main.xml"
     }
 ]

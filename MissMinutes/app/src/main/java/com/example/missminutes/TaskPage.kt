@@ -25,7 +25,7 @@ class TaskPage : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_task_page)
-//The usre's input is saved in the following variables
+//The user's input is saved in the following variables
         Obj = findViewById(R.id.ObjectiveTxtbox)
         Desc = findViewById(R.id.DescriptionTxtbox)
         buttonOpenDatePicker = findViewById(R.id.startDate)

@@ -74,15 +74,15 @@ class CategoryHours : AppCompatActivity() {
         // Call super to ensure default back behavior is executed
         super.onBackPressed()
     }
-//THis method retrieves the data from firesotre
+    //THis method retrieves the data from firesotre
     private fun fetchTasks() {
         //an instance of the firestore is created.
         db = FirebaseFirestore.getInstance()
-    //The user id is retrieved and stored in a variable.
+        //The user id is retrieved and stored in a variable.
         val currentUser = FirebaseAuth.getInstance().currentUser
         val userUUID = currentUser?.uid
 //The collection that is being queried is the tasks collection where the userr id is equal to the cureent user's id.
-    //This makes it so that only the categories created by this current user is retrieved.
+        //This makes it so that only the categories created by this current user is retrieved.
         db.collection("tasks").whereEqualTo("userId", userUUID)
             .addSnapshotListener(object : EventListener<QuerySnapshot> {
                 override fun onEvent(
@@ -125,7 +125,7 @@ class CategoryHours : AppCompatActivity() {
             })
     }
 
-//This method opens the date picker for the user to choose the date that they want to filter by.
+    //This method opens the date picker for the user to choose the date that they want to filter by.
     private fun openDatePicker() {
         val calendar = Calendar.getInstance()
         val year = calendar.get(Calendar.YEAR)
@@ -145,43 +145,43 @@ class CategoryHours : AppCompatActivity() {
 
         datePickerDialog.show()
     }
-//This method filters the task by date.
-private fun filterTasksByDate(selectedDate: String) {
-    val dateFormat = SimpleDateFormat("d/M/yyyy", Locale.US)
-    val selectedDateObject = dateFormat.parse(selectedDate)
+    //This method filters the task by date.
+    private fun filterTasksByDate(selectedDate: String) {
+        val dateFormat = SimpleDateFormat("d/M/yyyy", Locale.US)
+        val selectedDateObject = dateFormat.parse(selectedDate)
 
-    db = FirebaseFirestore.getInstance()
-    val currentUser = FirebaseAuth.getInstance().currentUser
-    val userUUID = currentUser?.uid
+        db = FirebaseFirestore.getInstance()
+        val currentUser = FirebaseAuth.getInstance().currentUser
+        val userUUID = currentUser?.uid
 
-    db.collection("tasks")
-        .whereEqualTo("userId", userUUID)
-        .whereEqualTo("date", selectedDateObject)
-        .get()
-        .addOnSuccessListener { querySnapshot ->
-            categoryArrayList.clear()
-            categoryHoursMap.clear()
+        db.collection("tasks")
+            .whereEqualTo("userId", userUUID)
+            .whereEqualTo("date", selectedDateObject)
+            .get()
+            .addOnSuccessListener { querySnapshot ->
+                categoryArrayList.clear()
+                categoryHoursMap.clear()
 
-            // Loop through tasks and group them by category
-            querySnapshot.forEach { document ->
-                val task = document.toObject(Task::class.java)
-                val category = task.categoryName ?: "Unknown"
-                val hours = task.hours?.toDouble() ?: 0.0
+                // Loop through tasks and group them by category
+                querySnapshot.forEach { document ->
+                    val task = document.toObject(Task::class.java)
+                    val category = task.categoryName ?: "Unknown"
+                    val hours = task.hours?.toDouble() ?: 0.0
 
-                // Accumulate hours for each category
-                categoryHoursMap[category] = categoryHoursMap.getOrDefault(category, 0.0) + hours
+                    // Accumulate hours for each category
+                    categoryHoursMap[category] = categoryHoursMap.getOrDefault(category, 0.0) + hours
+                }
+
+                // Create a list of unique categories with their total hours
+                val uniqueCategoriesList = categoryHoursMap.map { (categoryName, totalHours) ->
+                    CategorySummary(categoryName, totalHours)
+                }
+
+                myCategoryAdapter.updateData(uniqueCategoriesList)
+                myCategoryAdapter.notifyDataSetChanged() // Refresh the RecyclerView with the filtered data
             }
-
-            // Create a list of unique categories with their total hours
-            val uniqueCategoriesList = categoryHoursMap.map { (categoryName, totalHours) ->
-                CategorySummary(categoryName, totalHours)
+            .addOnFailureListener { exception ->
+                Log.e("Firestore Error", "Error fetching tasks by date: ${exception.message}")
             }
-
-            myCategoryAdapter.updateData(uniqueCategoriesList)
-            myCategoryAdapter.notifyDataSetChanged() // Refresh the RecyclerView with the filtered data
-        }
-        .addOnFailureListener { exception ->
-            Log.e("Firestore Error", "Error fetching tasks by date: ${exception.message}")
-        }
-}
+    }
 }

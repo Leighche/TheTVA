@@ -82,7 +82,7 @@ id description
 id endDate
 id favRecyclerView
 id filterByDate
-id idBarChart
+id idLineChart
 id idTVHead
 id imageView
 id imageView2
