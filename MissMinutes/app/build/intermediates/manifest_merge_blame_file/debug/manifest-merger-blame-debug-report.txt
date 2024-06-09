@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:5:5-80
-11-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:5:22-77
+11-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:5:22-77
 12    <uses-permission android:name="android.permission.INTERNET" />
 12-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\vikha\.gradle\caches\transforms-3\da03ae2ed7b59572ab43caba044fd860\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
 12-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\vikha\.gradle\caches\transforms-3\da03ae2ed7b59572ab43caba044fd860\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:22-64
@@ -33,118 +33,118 @@
 20-->[androidx.core:core:1.12.0] C:\Users\vikha\.gradle\caches\transforms-3\3e6a839ae70931f2e648cff101ea4617\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:7:5-63:19
+22-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:7:5-63:19
 23        android:allowBackup="true"
-23-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:8:9-35
+23-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:8:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.12.0] C:\Users\vikha\.gradle\caches\transforms-3\3e6a839ae70931f2e648cff101ea4617\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 25        android:dataExtractionRules="@xml/data_extraction_rules"
-25-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:9:9-65
+25-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:9:9-65
 26        android:debuggable="true"
 27        android:extractNativeLibs="false"
 28        android:fullBackupContent="@xml/backup_rules"
-28-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:10:9-54
+28-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:10:9-54
 29        android:icon="@mipmap/ic_launcher"
-29-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:11:9-43
+29-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:11:9-43
 30        android:label="@string/app_name"
-30-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:12:9-41
+30-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:12:9-41
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:13:9-54
+31-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:13:9-54
 32        android:supportsRtl="true"
-32-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:14:9-35
+32-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:14:9-35
 33        android:testOnly="true"
 34        android:theme="@style/Theme.MissMinutes" >
-34-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:15:9-49
+34-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:15:9-49
 35        <activity
-35-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:17:9-19:40
+35-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:17:9-19:40
 36            android:name="com.example.missminutes.CategoryGraph"
-36-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:18:13-42
+36-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:18:13-42
 37            android:exported="false" />
-37-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:19:13-37
+37-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:19:13-37
 38        <activity
-38-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:20:9-28:20
+38-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:20:9-28:20
 39            android:name="com.example.missminutes.splashscreen"
-39-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:21:13-41
+39-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:21:13-41
 40            android:exported="true" >
-40-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:22:13-36
+40-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:22:13-36
 41            <intent-filter>
-41-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:23:13-27:29
+41-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:23:13-27:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:24:17-69
-42-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:24:25-66
+42-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:24:17-69
+42-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:24:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:26:17-77
-44-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:26:27-74
+44-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:26:17-77
+44-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:26:27-74
 45            </intent-filter>
 46        </activity>
 47        <activity
-47-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:29:9-31:40
+47-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:29:9-31:40
 48            android:name="com.example.missminutes.CategoryHours"
-48-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:30:13-42
+48-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:30:13-42
 49            android:exported="false" />
-49-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:31:13-37
+49-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:31:13-37
 50        <activity
-50-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:32:9-34:40
+50-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:32:9-34:40
 51            android:name="com.example.missminutes.favouriteTimesheet"
-51-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:33:13-47
+51-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:33:13-47
 52            android:exported="false" />
-52-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:34:13-37
+52-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:34:13-37
 53        <activity
-53-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:35:9-37:40
+53-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:35:9-37:40
 54            android:name="com.example.missminutes.Timesheet"
-54-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:36:13-38
+54-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:36:13-38
 55            android:exported="false" />
-55-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:37:13-37
+55-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:37:13-37
 56        <activity
-56-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:38:9-40:40
+56-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:38:9-40:40
 57            android:name="com.example.missminutes.Pomodoro"
-57-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:39:13-37
+57-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:39:13-37
 58            android:exported="false" />
-58-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:40:13-37
+58-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:40:13-37
 59        <activity
-59-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:41:9-43:40
+59-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:41:9-43:40
 60            android:name="com.example.missminutes.Category"
-60-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:42:13-37
+60-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:42:13-37
 61            android:exported="false" />
-61-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:43:13-37
+61-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:43:13-37
 62        <activity
-62-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:44:9-46:40
+62-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:44:9-46:40
 63            android:name="com.example.missminutes.FinaliseTask"
-63-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:45:13-41
+63-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:45:13-41
 64            android:exported="false" />
-64-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:46:13-37
+64-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:46:13-37
 65        <activity
-65-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:47:9-49:40
+65-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:47:9-49:40
 66            android:name="com.example.missminutes.TaskPage"
-66-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:48:13-37
+66-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:48:13-37
 67            android:exported="false" />
-67-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:49:13-37
+67-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:49:13-37
 68        <activity
-68-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:50:9-52:40
+68-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:50:9-52:40
 69            android:name="com.example.missminutes.HomePage"
-69-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:51:13-37
+69-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:51:13-37
 70            android:exported="false" />
-70-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:52:13-37
+70-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:52:13-37
 71        <activity
-71-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:53:9-55:39
+71-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:53:9-55:39
 72            android:name="com.example.missminutes.Registration"
-72-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:54:13-41
+72-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:54:13-41
 73            android:exported="true" />
-73-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:55:13-36
+73-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:55:13-36
 74        <activity
-74-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:56:9-58:39
+74-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:56:9-58:39
 75            android:name="com.example.missminutes.MainActivity"
-75-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:57:13-41
+75-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:57:13-41
 76            android:exported="true" />
-76-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:58:13-36
+76-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:58:13-36
 77
 78        <meta-data
-78-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:60:9-62:57
+78-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:60:9-62:57
 79            android:name="preloaded_fonts"
-79-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:61:13-43
+79-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:61:13-43
 80            android:resource="@array/preloaded_fonts" />
-80-->C:\Users\vikha\Downloads\opsc7311-part-2-ST10083666-main\MissMinutes\app\src\main\AndroidManifest.xml:62:13-54
+80-->C:\Users\vikha\OneDrive\Documents\GitHub\TheTVA\MissMinutes\app\src\main\AndroidManifest.xml:62:13-54
 81
 82        <activity
 82-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\vikha\.gradle\caches\transforms-3\da03ae2ed7b59572ab43caba044fd860\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20

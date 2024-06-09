@@ -8535,7 +8535,7 @@
             "outputFile": "com.example.missminutes.app-merged_res-40:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -10309,6 +10309,23 @@
             "outputFile": "com.example.missminutes.app-merged_res-40:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,715",
+                        "endColumns": "143,81,103,108,119,100,77",
+                        "endOffsets": "194,276,380,489,609,710,788"
+                    },
+                    "to": {
+                        "startLines": "2264,2275,2276,2277,2278,2279,2394",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "149131,150118,150200,150304,150413,150533,167315",
+                        "endColumns": "143,81,103,108,119,100,77",
+                        "endOffsets": "149270,150195,150299,150408,150528,150629,167388"
+                    }
+                },
+                {
                     "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\27457920e966db4057d91a6c0fb07e46\\transformed\\browser-1.4.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -10323,25 +10340,6 @@
                         "startOffsets": "46097,46155,46221,46284,75768,75839,149063,149903,149970,150049",
                         "endColumns": "57,65,62,61,70,71,67,66,78,68",
                         "endOffsets": "46150,46216,46279,46341,75834,75906,149126,149965,150044,150113"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "64,229",
-                        "endLines": "5,7",
-                        "endColumns": "12,70",
-                        "endOffsets": "223,295"
-                    },
-                    "to": {
-                        "startLines": "2906,6923",
-                        "startColumns": "4,4",
-                        "startOffsets": "200666,481581",
-                        "endLines": "2909,6923",
-                        "endColumns": "12,69",
-                        "endOffsets": "200824,481646"
                     }
                 },
                 {
@@ -10508,40 +10506,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,715",
-                        "endColumns": "143,81,103,108,119,100,77",
-                        "endOffsets": "194,276,380,489,609,710,788"
-                    },
-                    "to": {
-                        "startLines": "2264,2275,2276,2277,2278,2279,2394",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "149131,150118,150200,150304,150413,150533,167315",
-                        "endColumns": "143,81,103,108,119,100,77",
-                        "endOffsets": "149270,150195,150299,150408,150528,150629,167388"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
-                    },
-                    "to": {
-                        "startLines": "2226",
-                        "startColumns": "4",
-                        "startOffsets": "144553",
-                        "endColumns": "49",
-                        "endOffsets": "144598"
-                    }
-                },
-                {
                     "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\43a5c48437c9809f4303e8d66bfd53e4\\transformed\\lifecycle-runtime-2.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -10669,6 +10633,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,5,2,6,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "139,178,55,230,97",
+                        "endColumns": "38,51,41,45,41",
+                        "endOffsets": "173,225,92,271,134"
+                    },
+                    "to": {
+                        "startLines": "858,873,878,1208,1211",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "44245,45158,45529,70045,70212",
+                        "endColumns": "38,51,41,45,41",
+                        "endOffsets": "44279,45205,45566,70086,70249"
+                    }
+                },
+                {
                     "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\3ed2bc8ed46292c2dd6d3b0c0503fd0c\\transformed\\play-services-basement-18.3.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -10683,6 +10664,63 @@
                         "startOffsets": "138040,147770",
                         "endColumns": "67,166",
                         "endOffsets": "138103,147932"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3667",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "3843"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "64,229",
+                        "endLines": "5,7",
+                        "endColumns": "12,70",
+                        "endOffsets": "223,295"
+                    },
+                    "to": {
+                        "startLines": "2906,6923",
+                        "startColumns": "4,4",
+                        "startOffsets": "200666,481581",
+                        "endLines": "2909,6923",
+                        "endColumns": "12,69",
+                        "endOffsets": "200824,481646"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,257,1982",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "252,1977,3567"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "150,352,2077",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "347,2072,3662"
                     }
                 },
                 {
@@ -10762,6 +10800,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\vikha\\OneDrive\\Documents\\GitHub\\TheTVA\\MissMinutes\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "2226",
+                        "startColumns": "4",
+                        "startOffsets": "144553",
+                        "endColumns": "49",
+                        "endOffsets": "144598"
+                    }
+                },
+                {
                     "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\5d0d359b22e7cf885be182d329ad3a7b\\transformed\\play-services-base-18.3.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -10781,23 +10836,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,5,2,6,3",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "139,178,55,230,97",
-                        "endColumns": "38,51,41,45,41",
-                        "endOffsets": "173,225,92,271,134"
-                    },
-                    "to": {
-                        "startLines": "858,873,878,1208,1211",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "44245,45158,45529,70045,70212",
-                        "endColumns": "38,51,41,45,41",
-                        "endOffsets": "44279,45205,45566,70086,70249"
-                    }
-                },
-                {
                     "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\e39e49edefd7bff2138a7fa21058320b\\transformed\\transition-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -10812,44 +10850,6 @@
                         "startOffsets": "133867,133907,135097,135321,135376,136872,136926,136978,137027,137088",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "133902,133949,135135,135371,135418,136921,136973,137022,137083,137133"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "231"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3667",
-                        "endLines": "20",
-                        "endColumns": "12",
-                        "endOffsets": "3843"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vikha\\Downloads\\opsc7311-part-2-ST10083666-main\\MissMinutes\\app\\src\\main\\res\\values\\font_certs.xml",
-                    "from": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,257,1982",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "252,1977,3567"
-                    },
-                    "to": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "150,352,2077",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "347,2072,3662"
                     }
                 }
             ]
