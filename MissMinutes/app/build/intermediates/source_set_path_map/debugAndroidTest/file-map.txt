@@ -1,6 +1,6 @@
-com.example.missminutes.test.app-annotation-experimental-1.3.0-0 /Users/tanyagovender/.gradle/caches/transforms-3/a92f87278e656f4a01b557d034f238b9/transformed/annotation-experimental-1.3.0/res
-com.example.missminutes.test.app-core-1.5.0-1 /Users/tanyagovender/.gradle/caches/transforms-3/faba00c7f9fa2310b63d872a709132ce/transformed/core-1.5.0/res
-com.example.missminutes.test.app-androidTest-2 /Users/tanyagovender/Desktop/MissMinutes/app/build/generated/res/resValues/androidTest/debug
-com.example.missminutes.test.app-mergeDebugAndroidTestResources-3 /Users/tanyagovender/Desktop/MissMinutes/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.missminutes.test.app-mergeDebugAndroidTestResources-4 /Users/tanyagovender/Desktop/MissMinutes/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.missminutes.test.app-merged_res-5 /Users/tanyagovender/Desktop/MissMinutes/app/build/intermediates/merged_res/debugAndroidTest
+com.example.missminutes.test.app-annotation-experimental-1.3.0-0 C:\Users\vikha\.gradle\caches\transforms-3\a92f87278e656f4a01b557d034f238b9\transformed\annotation-experimental-1.3.0\res
+com.example.missminutes.test.app-core-1.5.0-1 C:\Users\vikha\.gradle\caches\transforms-3\faba00c7f9fa2310b63d872a709132ce\transformed\core-1.5.0\res
+com.example.missminutes.test.app-androidTest-2 C:\Users\vikha\Downloads\TheTVA-graph\MissMinutes\app\build\generated\res\resValues\androidTest\debug
+com.example.missminutes.test.app-mergeDebugAndroidTestResources-3 C:\Users\vikha\Downloads\TheTVA-graph\MissMinutes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.missminutes.test.app-mergeDebugAndroidTestResources-4 C:\Users\vikha\Downloads\TheTVA-graph\MissMinutes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.missminutes.test.app-merged_res-5 C:\Users\vikha\Downloads\TheTVA-graph\MissMinutes\app\build\intermediates\merged_res\debugAndroidTest

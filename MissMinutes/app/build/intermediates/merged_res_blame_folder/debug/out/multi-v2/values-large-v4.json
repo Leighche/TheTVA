@@ -4,7 +4,7 @@
             "outputFile": "com.example.missminutes.app-mergeDebugResources-36:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/71a0d1092f59e74017d69a5651eb801a/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\71a0d1092f59e74017d69a5651eb801a\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/64ba5f05ce4d85c11f3f4969a09eb873/transformed/material-1.11.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\64ba5f05ce4d85c11f3f4969a09eb873\\transformed\\material-1.11.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -4,24 +4,7 @@
             "outputFile": "com.example.missminutes.app-mergeDebugResources-36:/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/80bbf24ac3da9177cbb77e96d77a4681/transformed/core-1.12.0/res/values-ky/values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,360,467,571,675,786",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "150,252,355,462,566,670,781,882"
-                    },
-                    "to": {
-                        "startLines": "38,39,40,41,42,43,44,131",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3505,3605,3707,3810,3917,4021,4125,12041",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "3600,3702,3805,3912,4016,4120,4231,12137"
-                    }
-                },
-                {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/597090d592c31d15a24ce58b20197f40/transformed/play-services-base-18.3.0/res/values-ky/values.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\597090d592c31d15a24ce58b20197f40\\transformed\\play-services-base-18.3.0\\res\\values-ky\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/86da33c8850d0fa9be9894f1dc73ad4e/transformed/play-services-basement-18.3.0/res/values-ky/values.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\86da33c8850d0fa9be9894f1dc73ad4e\\transformed\\play-services-basement-18.3.0\\res\\values-ky\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/71a0d1092f59e74017d69a5651eb801a/transformed/appcompat-1.6.1/res/values-ky/values-ky.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\80bbf24ac3da9177cbb77e96d77a4681\\transformed\\core-1.12.0\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,360,467,571,675,786",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "150,252,355,462,566,670,781,882"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41,42,43,44,131",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3505,3605,3707,3810,3917,4021,4125,12041",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "3600,3702,3805,3912,4016,4120,4231,12137"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\71a0d1092f59e74017d69a5651eb801a\\transformed\\appcompat-1.6.1\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/64ba5f05ce4d85c11f3f4969a09eb873/transformed/material-1.11.0/res/values-ky/values-ky.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\64ba5f05ce4d85c11f3f4969a09eb873\\transformed\\material-1.11.0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -91,7 +91,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tanyagovender/.gradle/caches/transforms-3/3e60b6d60577a0a3235a53b0ff08fa31/transformed/browser-1.4.0/res/values-ky/values-ky.xml",
+                    "source": "C:\\Users\\vikha\\.gradle\\caches\\transforms-3\\3e60b6d60577a0a3235a53b0ff08fa31\\transformed\\browser-1.4.0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
