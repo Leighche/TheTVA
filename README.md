@@ -16,12 +16,12 @@
    * [Required Features](#required-features)
       - [Progress Tracking](#progress-tracking)
       - [Mood and Productivity Correlation](#mood-and-productivity-correlation)
-      - [Study Buddy](#study-buddy)
       - [Feedback System](#feedback-system)
       - [Display Picture Options](#display-picture-options)
    * [Additional Features](#additional-features)
       - [Favorite Tasks](#favorite-tasks)
       - [Pomodoro Timer Feature](#pomodoro-timer-feature)
+      - [Study Buddy](#study-buddy)
 5. [Installation and Setup](#installation-and-setup)
 6. [Images](#images)
 7. [Demo Video](#demo-video)
@@ -54,9 +54,6 @@ Set productivity goals and track your progress using our unique ring/challenge m
 ### Mood and Productivity Correlation
 Keep track of your mood alongside your productivity. Understand how your mood affects your work and identify trends to optimize your daily routine.
 
-### Study Buddy
-Need extra motivation to stay productive? Our Study Buddy feature rewards you when you complete your goals, encouraging you to stay on track and reach new heights in your productivity journey.
-
 ### Feedback System
 We value your feedback! Use our built-in feedback system to share your thoughts and suggestions, helping us improve the app and create a better user experience.
 
@@ -72,6 +69,9 @@ Easily save and access your favorite tasks. With just a tap, you can add your mo
 
 ### Pomodoro Timer Feature
 Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout
+
+### Study Buddy
+Need extra motivation to stay productive? Our Study Buddy feature rewards you when you complete your goals, encouraging you to stay on track and reach new heights in your productivity journey.
 
 ## 🔵 Installation and Setup
 1. Download and install the Miss Minutes app from the Google Play Store.
