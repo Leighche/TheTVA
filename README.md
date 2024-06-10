@@ -21,7 +21,7 @@
    * [Additional Features](#additional-features)
       - [Favorite Tasks](#favorite-tasks)
       - [Pomodoro Timer Feature](#pomodoro-timer-feature)
-      - [Study Buddy](#study-buddy)
+      - [Animated Study Buddy](#animated-study-buddy)
 5. [Installation and Setup](#installation-and-setup)
 6. [Images](#images)
 7. [Demo Video](#demo-video)
@@ -70,7 +70,7 @@ Easily save and access your favorite tasks. With just a tap, you can add your mo
 ### Pomodoro Timer Feature
 Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout
 
-### Study Buddy
+### Animated Study Buddy
 Need extra motivation to stay productive? Our Study Buddy feature rewards you when you complete your goals, encouraging you to stay on track and reach new heights in your productivity journey.
 
 ## 🔵 Installation and Setup
