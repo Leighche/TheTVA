@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-
     tools:context=".CategoryGraph">
-
     <TextView
         android:id="@+id/idTVHead"
         android:layout_width="match_parent"
@@ -22,13 +20,65 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
+    <Button
+        android:id="@+id/filterByStartDate"
+        android:layout_width="198dp"
+        android:layout_height="122dp"
+        android:backgroundTint="#309696"
+        android:fontFamily="@font/roboto"
+        android:hint="Start Date"
+        android:padding="1dp"
+        android:textColor="@color/black"
+        android:textColorHint="#ffffff"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257"
+        app:strokeColor="#000" />
+
+    <Button
+        android:id="@+id/filterByEndDate"
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#309696"
+        android:fontFamily="@font/roboto"
+        android:hint="End Date"
+        android:padding="1dp"
+        android:textColor="@color/black"
+        android:textColorHint="#ffffff"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0"
+        app:strokeColor="#000" />
+
+    <Button
+        android:id="@+id/btnFilter"
+        android:layout_width="139dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#309696"
+        android:fontFamily="@font/roboto"
+        android:hint="Filter Date"
+        android:padding="1dp"
+        android:textColor="@color/black"
+        android:textColorHint="#ffffff"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257"
+        app:strokeColor="#000" />
     <!--Ui component for our bar chart-->
     <com.github.mikephil.charting.charts.LineChart
         android:id="@+id/idLineChart"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/idTVHead"
-       />
+        />
 
-
-</RelativeLayout>
+</LinearLayout>

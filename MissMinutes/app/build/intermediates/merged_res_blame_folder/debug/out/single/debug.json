@@ -1,250 +1,254 @@
 [
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_finalise_task.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_finalise_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\img_5.png"
     },
     {
         "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_category_graph.xml.flat",
         "source": "com.example.missminutes.app-main-42:/layout/activity_category_graph.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_img_2.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/img_2.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_list_item.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/list_item.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\splash.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_gaspmissminutes.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/gaspmissminutes.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_passwordicon.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\passwordicon.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_poppins.ttf.flat",
-        "source": "com.example.missminutes.app-main-42:/font/poppins.ttf"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_task_page.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_task_page.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_favourite_timesheet.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_favourite_timesheet.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_usericon.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\usericon.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_worriedmissminutes.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\worriedmissminutes.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_timesheet.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_timesheet.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_sassymissminutes.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/sassymissminutes.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_button_with_stroke.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\button_with_stroke.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_img_5.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/img_5.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\poppins_bold.ttf"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_inter_medium.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/font/inter_medium.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_category_item.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\category_item.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_img.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/img.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\roboto_bold.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\img_1.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_usericon.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/usericon.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_roboto.ttf.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\roboto.ttf"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_splash.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/splash.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_mmhomescreen.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\mmhomescreen.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_roboto.ttf.flat",
-        "source": "com.example.missminutes.app-main-42:/font/roboto.ttf"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_input_bg.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/input_bg.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_pomodoro.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_pomodoro.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_category_graph.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_category_graph.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_img_3.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/img_3.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\list_item.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_timesheet.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_timesheet.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\input_bg.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_poppins_bold.ttf.flat",
-        "source": "com.example.missminutes.app-main-42:/font/poppins_bold.ttf"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_img.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\img.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_missminutesapplogo.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/missminutesapplogo.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_favourite_timesheet.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_favourite_timesheet.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_amiko.ttf.flat",
-        "source": "com.example.missminutes.app-main-42:/font/amiko.ttf"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_pomodoro.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_pomodoro.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\custom_input.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_anton.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/font/anton.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\img_2.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_sassymissminutes.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\sassymissminutes.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_splashscreen.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_worriedmissminutes.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/worriedmissminutes.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_category.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_category.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_button_with_stroke.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/button_with_stroke.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_home_page.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_passwordicon.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/passwordicon.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_rainbow_gradient.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/rainbow_gradient.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/xml_backup_rules.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_bubbles.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\bubbles.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_finalise_task.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_finalise_task.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\img_3.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_star.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/star.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_mmhomescreen.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/mmhomescreen.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_splashscreen.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_splashscreen.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_registration.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_category_hours.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_category_hours.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_custom_input.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/custom_input.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_inter_medium.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\inter_medium.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_img_1.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/img_1.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_task_page.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_task_page.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_category_item.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/category_item.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\img_4.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_main.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_amiko.ttf.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\amiko.ttf"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_rainbow_gradient.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\rainbow_gradient.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_category.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_home_page.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_home_page.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_missminutesapplogo.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\missminutesapplogo.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/font_roboto_bold.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/font/roboto_bold.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_poppins.ttf.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\poppins.ttf"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_bubbles.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/bubbles.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\font_anton.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\font\\anton.xml"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/drawable_img_4.png.flat",
-        "source": "com.example.missminutes.app-main-42:/drawable/img_4.png"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_gaspmissminutes.png.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\gaspmissminutes.png"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/layout_activity_registration.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/layout/activity_registration.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\drawable_star.webp.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\drawable\\star.webp"
     },
     {
-        "merged": "com.example.missminutes.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.missminutes.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-merged_res-40:\\layout_activity_category_hours.xml.flat",
+        "source": "C:\\Users\\vikha\\.gradle\\daemon\\8.2\\com.example.missminutes.app-main-42:\\layout\\activity_category_hours.xml"
     }
 ]

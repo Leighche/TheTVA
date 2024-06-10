@@ -3436,6 +3436,7 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btnFilter
 id btnGraph
 id btnLogin
 id btnSignUp
@@ -3537,6 +3538,8 @@ id fill_horizontal
 id fill_vertical
 id filled
 id filterByDate
+id filterByEndDate
+id filterByStartDate
 id fitCenter
 id fitEnd
 id fitStart

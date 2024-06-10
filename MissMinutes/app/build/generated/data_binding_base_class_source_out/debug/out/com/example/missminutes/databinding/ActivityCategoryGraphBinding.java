@@ -4,7 +4,8 @@ package com.example.missminutes.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RelativeLayout;
+import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -18,7 +19,16 @@ import java.lang.String;
 
 public final class ActivityCategoryGraphBinding implements ViewBinding {
   @NonNull
-  private final RelativeLayout rootView;
+  private final LinearLayout rootView;
+
+  @NonNull
+  public final Button btnFilter;
+
+  @NonNull
+  public final Button filterByEndDate;
+
+  @NonNull
+  public final Button filterByStartDate;
 
   @NonNull
   public final LineChart idLineChart;
@@ -27,11 +37,15 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
   public final TextView idTVHead;
 
   @NonNull
-  public final RelativeLayout main;
+  public final LinearLayout main;
 
-  private ActivityCategoryGraphBinding(@NonNull RelativeLayout rootView,
-      @NonNull LineChart idLineChart, @NonNull TextView idTVHead, @NonNull RelativeLayout main) {
+  private ActivityCategoryGraphBinding(@NonNull LinearLayout rootView, @NonNull Button btnFilter,
+      @NonNull Button filterByEndDate, @NonNull Button filterByStartDate,
+      @NonNull LineChart idLineChart, @NonNull TextView idTVHead, @NonNull LinearLayout main) {
     this.rootView = rootView;
+    this.btnFilter = btnFilter;
+    this.filterByEndDate = filterByEndDate;
+    this.filterByStartDate = filterByStartDate;
     this.idLineChart = idLineChart;
     this.idTVHead = idTVHead;
     this.main = main;
@@ -39,7 +53,7 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public RelativeLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -64,6 +78,24 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.btnFilter;
+      Button btnFilter = ViewBindings.findChildViewById(rootView, id);
+      if (btnFilter == null) {
+        break missingId;
+      }
+
+      id = R.id.filterByEndDate;
+      Button filterByEndDate = ViewBindings.findChildViewById(rootView, id);
+      if (filterByEndDate == null) {
+        break missingId;
+      }
+
+      id = R.id.filterByStartDate;
+      Button filterByStartDate = ViewBindings.findChildViewById(rootView, id);
+      if (filterByStartDate == null) {
+        break missingId;
+      }
+
       id = R.id.idLineChart;
       LineChart idLineChart = ViewBindings.findChildViewById(rootView, id);
       if (idLineChart == null) {
@@ -76,10 +108,10 @@ public final class ActivityCategoryGraphBinding implements ViewBinding {
         break missingId;
       }
 
-      RelativeLayout main = (RelativeLayout) rootView;
+      LinearLayout main = (LinearLayout) rootView;
 
-      return new ActivityCategoryGraphBinding((RelativeLayout) rootView, idLineChart, idTVHead,
-          main);
+      return new ActivityCategoryGraphBinding((LinearLayout) rootView, btnFilter, filterByEndDate,
+          filterByStartDate, idLineChart, idTVHead, main);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
