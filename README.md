@@ -68,10 +68,10 @@ Upload your own display picture or choose from our curated selection of images t
 Easily save and access your favorite tasks. With just a tap, you can add your most important tasks to your favorites for quick and easy access.
 
 ### Pomodoro Timer Feature
-Improve focus and productivity with our Pomodoro timer. Schedule regular breaks to maintain a healthy work system and avoid burnout
+Improve focus and productivity with our Pomodoro timer. Schedule regular 25 minute breaks to maintain a healthy work system and avoid burnout while chilling with your study buddy.
 
 ### Animated Study Buddy
-Need extra motivation to stay productive? Our Study Buddy feature rewards you when you complete your goals, encouraging you to stay on track and reach new heights in your productivity journey.
+Need extra motivation to stay productive? Our Animated Study Buddy feature rewards you when you complete your goals, encouraging you to stay on track and reach new heights in your productivity journey. 
 
 ## 🔵 Installation and Setup
 1. Download and install the Miss Minutes app from the Google Play Store.
@@ -102,9 +102,11 @@ Here's our roadmap for Miss Minutes, with an overview of completed tasks and pla
 - [x] Dark Mode Option for improved nighttime or low-light experience.
 - [x] Feedback system for user suggestions and comments.
 - [x] Customizable clocks for digital or analog display.
+- [x] An animated study buddy.
+- [x] A line graph that displays category hours.
+- [x] A bar chart that diaplays how well you're doing within your minimum and maximum goals for each task.
 
 ### In Progress
-- [ ] Additional Study Buddy characters and rewards.
 - [ ] Dark Mode Scheduler to switch modes based on time of day.
 - [ ] Enhanced analytics for productivity insights.
 
